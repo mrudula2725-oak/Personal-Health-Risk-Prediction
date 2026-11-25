@@ -1,10 +1,11 @@
 # Personal Health Risk Prediction
+**Live demo:** https://personal-health-risk-prediction-dj69r5agzb5xzrivchc7zr.streamlit.app
 
 A Streamlit dashboard that estimates hypertension risk level (Low / Moderate / High) from health indicators. **Educational use only, not medical advice.**
 
 ## Problem
 
-Estimates a person's hypertension risk level from blood pressure readings, age, salt intake, alcohol consumption and stress level, and shows how the inputs compare with the dataset.
+Estimates a person's hypertension risk level from blood pressure readings, age, salt intake, alcohol consumption and stress level, and shows charts that explore the underlying dataset.
 
 ## Dataset
 
